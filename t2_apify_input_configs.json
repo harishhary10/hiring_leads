@@ -1,0 +1,47 @@
+{
+  "_note": "Three input configurations for the Apify ATS Hiring Signals actor (opensignals/ats-hiring-signals). Copy any block as the full actor input. Costs are pay-per-result — ~$1/1,000 results on the pricing page; Apify free plan = $5/mo credit, Starter $39/mo, Scale $199/mo.",
+  "C1_weekly_discovery": {
+    "_purpose": "Monday 09:00 IST run. Broad title/hiring discovery across the actor's ~8,800-board directory (Common Crawl-derived). This IS the last-30-days + remote gate: postedWithinDays=30, locationFilter=remote, excludeStale=true drops 45+ day ghost/evergreen postings.",
+    "discoverCompanies": ["greenhouse", "lever", "ashby", "workable", "smartrecruiters", "workday", "personio"],
+    "discoverLimit": 500,
+    "keywords": ["AI Engineer", "GenAI Engineer", "Generative AI Engineer", "Generative AI"],
+    "keywordsMode": "any",
+    "locationFilter": "remote",
+    "postedWithinDays": 30,
+    "excludeStale": true,
+    "extractTechStack": true,
+    "checkFunding": true,
+    "onlyNewJobs": true,
+    "outputMode": "both",
+    "maxItems": 300
+  },
+  "C2_strict_title_contract_probe": {
+    "_purpose": "Contract-signal probe. Contract type is NOT a first-class field on these boards, so we match description text for contract terms. Treat matches as hints — verify the posting page before logging Employment_Type=Contract.",
+    "discoverCompanies": ["greenhouse", "lever", "ashby", "workable", "smartrecruiters", "workday", "personio"],
+    "discoverLimit": 300,
+    "keywords": ["AI Engineer", "GenAI Engineer", "Generative AI Engineer", "contract", "contractor", "C2C", "W2 contract"],
+    "keywordsMode": "any",
+    "searchDescriptions": true,
+    "locationFilter": "remote",
+    "postedWithinDays": 30,
+    "excludeStale": true,
+    "extractTechStack": true,
+    "checkFunding": true,
+    "onlyNewJobs": true,
+    "outputMode": "both",
+    "maxItems": 200
+  },
+  "C3_stack_evidence_desc_mode": {
+    "_purpose": "Per-account technical evidence pass. Run once at qualification time on boards of accounts that passed the role gate; copy tech_stack + top_technologies into the tracker Notes field for outreach personalization.",
+    "boards": ["REPLACE_WITH_board_url_or_slug"],
+    "keywords": ["AI Engineer", "GenAI Engineer"],
+    "keywordsMode": "any",
+    "searchDescriptions": true,
+    "postedWithinDays": 30,
+    "excludeStale": false,
+    "extractTechStack": true,
+    "checkFunding": true,
+    "outputMode": "both",
+    "maxItems": 50
+  }
+}

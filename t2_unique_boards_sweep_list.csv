@@ -1,0 +1,139 @@
+Primary_Job_Portal,Primary_URL,Portal_Class,Source_Confidence,Portal_Value,City,State,Cities_Covered
+Technical.ly – Philly job board,technical.ly,Regional-Tech-Board,Verified,6,Philadelphia,PA,5
+Purpose Jobs – Columbus (purpose.jobs),purpose.jobs,Regional-Tech-Board,Verified,6,Columbus,OH,9
+Purpose Jobs – Indianapolis (purpose.jobs/indianapolis),purpose.jobs/indianapolis,Regional-Tech-Board,Verified,6,Indianapolis,IN,1
+Refresh Miami job board (jobs.refreshmiami.com),jobs.refreshmiami.com,Regional-Tech-Board,Verified,6,Miami,FL,6
+TechBuffalo job board (techbuffalo.org),techbuffalo.org,Regional-Tech-Board,Verified,6,Buffalo,NY,1
+Silicon Slopes Jobs (siliconslopes.com/jobs),siliconslopes.com/jobs,Regional-Tech-Board,Verified,6,Salt Lake City,UT,1
+Charleston Digital Corridor career portal,charlestondigital.com,Regional-Tech-Board,Verified,6,Charleston,SC,1
+Built In SF (builtinsf.com) – Bay Area,builtinsf.com,BuiltIn-Hub/City,Verified,5,San Jose,CA,5
+Built In Charlotte (dedicated hub site),builtin.com,BuiltIn-Hub/City,Verified,5,Charlotte,NC,1
+Techlahoma job board (jobs.techlahoma.org),jobs.techlahoma.org,Regional-Tech-Board,Moderate,5,Oklahoma City,OK,2
+Nashville Technology Council career center,technologycouncil.com,Regional-Tech-Board,Moderate,5,Nashville,TN,1
+Silicon Florist job board (siliconflorist.com),siliconflorist.com,Regional-Tech-Board,Moderate,5,Portland,OR,1
+MKE Tech Hub job board (mketech.org),mketech.org,Regional-Tech-Board,Moderate,5,Milwaukee,WI,1
+Startland News – KC startup jobs (startlandnews.com),startlandnews.com,Regional-Tech-Board,Moderate,5,Kansas City,MO,4
+Built In Colorado (builtincolorado.com),builtincolorado.com,BuiltIn-Hub/City,Verified,5,Colorado Springs,CO,5
+Silicon Prairie News jobs (siliconprairienews.com),siliconprairienews.com,Regional-Tech-Board,Moderate,5,Omaha,NE,2
+Built In LA (builtinla.com),builtinla.com,BuiltIn-Hub/City,Verified,5,Long Beach,CA,11
+Tech.MN job board (tech.mn),tech.mn,Regional-Tech-Board,Moderate,5,Minneapolis,MN,2
+Tampa Bay Tech job board (tampabay.tech),tampabay.tech,Regional-Tech-Board,Moderate,5,Tampa,FL,2
+RVATech job board (rvatech.com),rvatech.com,Regional-Tech-Board,Moderate,5,Richmond,VA,1
+Technology Association of Iowa job board (technologyiowa.org),technologyiowa.org,Regional-Tech-Board,Moderate,5,Des Moines,IA,1
+Tech Collective RI job board,tech-collective.org,Regional-Tech-Board,Moderate,5,Providence,RI,1
+"Built In national platform – city filter: Houston, TX",builtin.com/jobs,BuiltIn-Hub/City,Standard,3,Houston,TX,11
+"Indeed – El Paso, TX city filter",https://www.indeed.com/jobs?l=El+Paso%2C+TX,Indeed-CityFilter,Standard,2,El Paso,TX,1
+"Indeed – Las Vegas, NV city filter",https://www.indeed.com/jobs?l=Las+Vegas%2C+NV,Indeed-CityFilter,Standard,2,Las Vegas,NV,1
+"Indeed – Louisville, KY city filter",https://www.indeed.com/jobs?l=Louisville%2C+KY,Indeed-CityFilter,Standard,2,Louisville,KY,1
+"Indeed – Memphis, TN city filter",https://www.indeed.com/jobs?l=Memphis%2C+TN,Indeed-CityFilter,Standard,2,Memphis,TN,1
+"Indeed – Tucson, AZ city filter",https://www.indeed.com/jobs?l=Tucson%2C+AZ,Indeed-CityFilter,Standard,2,Tucson,AZ,1
+"Indeed – Fresno, CA city filter",https://www.indeed.com/jobs?l=Fresno%2C+CA,Indeed-CityFilter,Standard,2,Fresno,CA,1
+"Indeed – Sacramento, CA city filter",https://www.indeed.com/jobs?l=Sacramento%2C+CA,Indeed-CityFilter,Standard,2,Sacramento,CA,1
+"Indeed – Mesa, AZ city filter",https://www.indeed.com/jobs?l=Mesa%2C+AZ,Indeed-CityFilter,Standard,2,Mesa,AZ,1
+"Indeed – Raleigh, NC city filter",https://www.indeed.com/jobs?l=Raleigh%2C+NC,Indeed-CityFilter,Standard,2,Raleigh,NC,1
+"Indeed – Virginia Beach, VA city filter",https://www.indeed.com/jobs?l=Virginia+Beach%2C+VA,Indeed-CityFilter,Standard,2,Virginia Beach,VA,1
+"Indeed – Bakersfield, CA city filter",https://www.indeed.com/jobs?l=Bakersfield%2C+CA,Indeed-CityFilter,Standard,2,Bakersfield,CA,1
+"Indeed – Arlington, TX city filter",https://www.indeed.com/jobs?l=Arlington%2C+TX,Indeed-CityFilter,Standard,2,Arlington,TX,1
+"Indeed – Wichita, KS city filter",https://www.indeed.com/jobs?l=Wichita%2C+KS,Indeed-CityFilter,Standard,2,Wichita,KS,1
+"Indeed – Honolulu, HI city filter",https://www.indeed.com/jobs?l=Honolulu%2C+HI,Indeed-CityFilter,Standard,2,Honolulu,HI,1
+"Indeed – Henderson, NV city filter",https://www.indeed.com/jobs?l=Henderson%2C+NV,Indeed-CityFilter,Standard,2,Henderson,NV,1
+"Indeed – Lexington, KY city filter",https://www.indeed.com/jobs?l=Lexington%2C+KY,Indeed-CityFilter,Standard,2,Lexington,KY,1
+"Indeed – Riverside, CA city filter",https://www.indeed.com/jobs?l=Riverside%2C+CA,Indeed-CityFilter,Standard,2,Riverside,CA,1
+"Indeed – Stockton, CA city filter",https://www.indeed.com/jobs?l=Stockton%2C+CA,Indeed-CityFilter,Standard,2,Stockton,CA,1
+"Indeed – Corpus Christi, TX city filter",https://www.indeed.com/jobs?l=Corpus+Christi%2C+TX,Indeed-CityFilter,Standard,2,Corpus Christi,TX,1
+"Indeed – Newark, NJ city filter",https://www.indeed.com/jobs?l=Newark%2C+NJ,Indeed-CityFilter,Standard,2,Newark,NJ,1
+"Indeed – Greensboro, NC city filter",https://www.indeed.com/jobs?l=Greensboro%2C+NC,Indeed-CityFilter,Standard,2,Greensboro,NC,1
+"Indeed – St. Louis, MO city filter",https://www.indeed.com/jobs?l=St.+Louis%2C+MO,Indeed-CityFilter,Standard,2,St. Louis,MO,1
+"Indeed – Plano, TX city filter",https://www.indeed.com/jobs?l=Plano%2C+TX,Indeed-CityFilter,Standard,2,Plano,TX,1
+"Indeed – Anchorage, AK city filter",https://www.indeed.com/jobs?l=Anchorage%2C+AK,Indeed-CityFilter,Standard,2,Anchorage,AK,1
+"Indeed – Jersey City, NJ city filter",https://www.indeed.com/jobs?l=Jersey+City%2C+NJ,Indeed-CityFilter,Standard,2,Jersey City,NJ,1
+"Indeed – Durham, NC city filter",https://www.indeed.com/jobs?l=Durham%2C+NC,Indeed-CityFilter,Standard,2,Durham,NC,1
+"Indeed – Chandler, AZ city filter",https://www.indeed.com/jobs?l=Chandler%2C+AZ,Indeed-CityFilter,Standard,2,Chandler,AZ,1
+"Indeed – Chula Vista, CA city filter",https://www.indeed.com/jobs?l=Chula+Vista%2C+CA,Indeed-CityFilter,Standard,2,Chula Vista,CA,1
+"Indeed – North Las Vegas, NV city filter",https://www.indeed.com/jobs?l=North+Las+Vegas%2C+NV,Indeed-CityFilter,Standard,2,North Las Vegas,NV,1
+"Indeed – Gilbert, AZ city filter",https://www.indeed.com/jobs?l=Gilbert%2C+AZ,Indeed-CityFilter,Standard,2,Gilbert,AZ,1
+"Indeed – Reno, NV city filter",https://www.indeed.com/jobs?l=Reno%2C+NV,Indeed-CityFilter,Standard,2,Reno,NV,1
+"Indeed – Madison, WI city filter",https://www.indeed.com/jobs?l=Madison%2C+WI,Indeed-CityFilter,Standard,2,Madison,WI,1
+"Indeed – Lubbock, TX city filter",https://www.indeed.com/jobs?l=Lubbock%2C+TX,Indeed-CityFilter,Standard,2,Lubbock,TX,1
+"Indeed – Laredo, TX city filter",https://www.indeed.com/jobs?l=Laredo%2C+TX,Indeed-CityFilter,Standard,2,Laredo,TX,1
+"Indeed – Irving, TX city filter",https://www.indeed.com/jobs?l=Irving%2C+TX,Indeed-CityFilter,Standard,2,Irving,TX,1
+"Indeed – Chesapeake, VA city filter",https://www.indeed.com/jobs?l=Chesapeake%2C+VA,Indeed-CityFilter,Standard,2,Chesapeake,VA,1
+"Indeed – Glendale, AZ city filter",https://www.indeed.com/jobs?l=Glendale%2C+AZ,Indeed-CityFilter,Standard,2,Glendale,AZ,1
+"Indeed – Winston-Salem, NC city filter",https://www.indeed.com/jobs?l=Winston-Salem%2C+NC,Indeed-CityFilter,Standard,2,Winston-Salem,NC,1
+"Indeed – Scottsdale, AZ city filter",https://www.indeed.com/jobs?l=Scottsdale%2C+AZ,Indeed-CityFilter,Standard,2,Scottsdale,AZ,1
+"Indeed – Port St. Lucie, FL city filter",https://www.indeed.com/jobs?l=Port+St.+Lucie%2C+FL,Indeed-CityFilter,Standard,2,Port St. Lucie,FL,1
+"Indeed – Garland, TX city filter",https://www.indeed.com/jobs?l=Garland%2C+TX,Indeed-CityFilter,Standard,2,Garland,TX,1
+"Indeed – Norfolk, VA city filter",https://www.indeed.com/jobs?l=Norfolk%2C+VA,Indeed-CityFilter,Standard,2,Norfolk,VA,1
+"Indeed – Spokane, WA city filter",https://www.indeed.com/jobs?l=Spokane%2C+WA,Indeed-CityFilter,Standard,2,Spokane,WA,1
+"Indeed – Huntsville, AL city filter",https://www.indeed.com/jobs?l=Huntsville%2C+AL,Indeed-CityFilter,Standard,2,Huntsville,AL,1
+"Indeed – Cape Coral, FL city filter",https://www.indeed.com/jobs?l=Cape+Coral%2C+FL,Indeed-CityFilter,Standard,2,Cape Coral,FL,1
+"Indeed – San Bernardino, CA city filter",https://www.indeed.com/jobs?l=San+Bernardino%2C+CA,Indeed-CityFilter,Standard,2,San Bernardino,CA,1
+"Indeed – Tacoma, WA city filter",https://www.indeed.com/jobs?l=Tacoma%2C+WA,Indeed-CityFilter,Standard,2,Tacoma,WA,1
+"Indeed – Modesto, CA city filter",https://www.indeed.com/jobs?l=Modesto%2C+CA,Indeed-CityFilter,Standard,2,Modesto,CA,1
+"Indeed – Fontana, CA city filter",https://www.indeed.com/jobs?l=Fontana%2C+CA,Indeed-CityFilter,Standard,2,Fontana,CA,1
+"Indeed – McKinney, TX city filter",https://www.indeed.com/jobs?l=McKinney%2C+TX,Indeed-CityFilter,Standard,2,McKinney,TX,1
+"Indeed – Sioux Falls, SD city filter",https://www.indeed.com/jobs?l=Sioux+Falls%2C+SD,Indeed-CityFilter,Standard,2,Sioux Falls,SD,1
+"Indeed – Rochester, NY city filter",https://www.indeed.com/jobs?l=Rochester%2C+NY,Indeed-CityFilter,Standard,2,Rochester,NY,1
+"Indeed – Moreno Valley, CA city filter",https://www.indeed.com/jobs?l=Moreno+Valley%2C+CA,Indeed-CityFilter,Standard,2,Moreno Valley,CA,1
+"Indeed – Fayetteville, NC city filter",https://www.indeed.com/jobs?l=Fayetteville%2C+NC,Indeed-CityFilter,Standard,2,Fayetteville,NC,1
+"Indeed – Yonkers, NY city filter",https://www.indeed.com/jobs?l=Yonkers%2C+NY,Indeed-CityFilter,Standard,2,Yonkers,NY,1
+"Indeed – Frisco, TX city filter",https://www.indeed.com/jobs?l=Frisco%2C+TX,Indeed-CityFilter,Standard,2,Frisco,TX,1
+"Indeed – Little Rock, AR city filter",https://www.indeed.com/jobs?l=Little+Rock%2C+AR,Indeed-CityFilter,Standard,2,Little Rock,AR,1
+"Indeed – Augusta, GA city filter",https://www.indeed.com/jobs?l=Augusta%2C+GA,Indeed-CityFilter,Standard,2,Augusta,GA,1
+"Indeed – Columbus, GA city filter",https://www.indeed.com/jobs?l=Columbus%2C+GA,Indeed-CityFilter,Standard,2,Columbus,GA,1
+"Indeed – Amarillo, TX city filter",https://www.indeed.com/jobs?l=Amarillo%2C+TX,Indeed-CityFilter,Standard,2,Amarillo,TX,1
+"Indeed – Shreveport, LA city filter",https://www.indeed.com/jobs?l=Shreveport%2C+LA,Indeed-CityFilter,Standard,2,Shreveport,LA,1
+"Indeed – Grand Prairie, TX city filter",https://www.indeed.com/jobs?l=Grand+Prairie%2C+TX,Indeed-CityFilter,Standard,2,Grand Prairie,TX,1
+"Indeed – Tallahassee, FL city filter",https://www.indeed.com/jobs?l=Tallahassee%2C+FL,Indeed-CityFilter,Standard,2,Tallahassee,FL,1
+"Indeed – Worcester, MA city filter",https://www.indeed.com/jobs?l=Worcester%2C+MA,Indeed-CityFilter,Standard,2,Worcester,MA,1
+"Indeed – Oxnard, CA city filter",https://www.indeed.com/jobs?l=Oxnard%2C+CA,Indeed-CityFilter,Standard,2,Oxnard,CA,1
+"Indeed – Knoxville, TN city filter",https://www.indeed.com/jobs?l=Knoxville%2C+TN,Indeed-CityFilter,Standard,2,Knoxville,TN,1
+"Indeed – Peoria, AZ city filter",https://www.indeed.com/jobs?l=Peoria%2C+AZ,Indeed-CityFilter,Standard,2,Peoria,AZ,1
+"Indeed – Tempe, AZ city filter",https://www.indeed.com/jobs?l=Tempe%2C+AZ,Indeed-CityFilter,Standard,2,Tempe,AZ,1
+"Indeed – Chattanooga, TN city filter",https://www.indeed.com/jobs?l=Chattanooga%2C+TN,Indeed-CityFilter,Standard,2,Chattanooga,TN,1
+"Indeed – Brownsville, TX city filter",https://www.indeed.com/jobs?l=Brownsville%2C+TX,Indeed-CityFilter,Standard,2,Brownsville,TX,1
+"Indeed – Newport News, VA city filter",https://www.indeed.com/jobs?l=Newport+News%2C+VA,Indeed-CityFilter,Standard,2,Newport News,VA,1
+"Indeed – Montgomery, AL city filter",https://www.indeed.com/jobs?l=Montgomery%2C+AL,Indeed-CityFilter,Standard,2,Montgomery,AL,1
+"Indeed – Ontario, CA city filter",https://www.indeed.com/jobs?l=Ontario%2C+CA,Indeed-CityFilter,Standard,2,Ontario,CA,1
+"Indeed – Vancouver, WA city filter",https://www.indeed.com/jobs?l=Vancouver%2C+WA,Indeed-CityFilter,Standard,2,Vancouver,WA,1
+"Indeed – Mobile, AL city filter",https://www.indeed.com/jobs?l=Mobile%2C+AL,Indeed-CityFilter,Standard,2,Mobile,AL,1
+"Indeed – Rancho Cucamonga, CA city filter",https://www.indeed.com/jobs?l=Rancho+Cucamonga%2C+CA,Indeed-CityFilter,Standard,2,Rancho Cucamonga,CA,1
+"Indeed – Santa Rosa, CA city filter",https://www.indeed.com/jobs?l=Santa+Rosa%2C+CA,Indeed-CityFilter,Standard,2,Santa Rosa,CA,1
+"Indeed – Oceanside, CA city filter",https://www.indeed.com/jobs?l=Oceanside%2C+CA,Indeed-CityFilter,Standard,2,Oceanside,CA,1
+"Indeed – Springfield, MO city filter",https://www.indeed.com/jobs?l=Springfield%2C+MO,Indeed-CityFilter,Standard,2,Springfield,MO,1
+"Indeed – Cary, NC city filter",https://www.indeed.com/jobs?l=Cary%2C+NC,Indeed-CityFilter,Standard,2,Cary,NC,1
+"Indeed – Elk Grove, CA city filter",https://www.indeed.com/jobs?l=Elk+Grove%2C+CA,Indeed-CityFilter,Standard,2,Elk Grove,CA,1
+"Indeed – Salem, OR city filter",https://www.indeed.com/jobs?l=Salem%2C+OR,Indeed-CityFilter,Standard,2,Salem,OR,1
+"Indeed – Clarksville, TN city filter",https://www.indeed.com/jobs?l=Clarksville%2C+TN,Indeed-CityFilter,Standard,2,Clarksville,TN,1
+"Indeed – Corona, CA city filter",https://www.indeed.com/jobs?l=Corona%2C+CA,Indeed-CityFilter,Standard,2,Corona,CA,1
+"Indeed – Eugene, OR city filter",https://www.indeed.com/jobs?l=Eugene%2C+OR,Indeed-CityFilter,Standard,2,Eugene,OR,1
+"Indeed – Salinas, CA city filter",https://www.indeed.com/jobs?l=Salinas%2C+CA,Indeed-CityFilter,Standard,2,Salinas,CA,1
+"Indeed – Macon, GA city filter",https://www.indeed.com/jobs?l=Macon%2C+GA,Indeed-CityFilter,Standard,2,Macon,GA,1
+"Indeed – Springfield, MA city filter",https://www.indeed.com/jobs?l=Springfield%2C+MA,Indeed-CityFilter,Standard,2,Springfield,MA,1
+"Indeed – Naperville, IL city filter",https://www.indeed.com/jobs?l=Naperville%2C+IL,Indeed-CityFilter,Standard,2,Naperville,IL,1
+"Indeed – Roseville, CA city filter",https://www.indeed.com/jobs?l=Roseville%2C+CA,Indeed-CityFilter,Standard,2,Roseville,CA,1
+"Indeed – Bellevue, WA city filter",https://www.indeed.com/jobs?l=Bellevue%2C+WA,Indeed-CityFilter,Standard,2,Bellevue,WA,1
+"Indeed – Savannah, GA city filter",https://www.indeed.com/jobs?l=Savannah%2C+GA,Indeed-CityFilter,Standard,2,Savannah,GA,1
+"Indeed – Denton, TX city filter",https://www.indeed.com/jobs?l=Denton%2C+TX,Indeed-CityFilter,Standard,2,Denton,TX,1
+"Indeed – Pasadena, TX city filter",https://www.indeed.com/jobs?l=Pasadena%2C+TX,Indeed-CityFilter,Standard,2,Pasadena,TX,1
+"Indeed – McAllen, TX city filter",https://www.indeed.com/jobs?l=McAllen%2C+TX,Indeed-CityFilter,Standard,2,McAllen,TX,1
+"Indeed – Killeen, TX city filter",https://www.indeed.com/jobs?l=Killeen%2C+TX,Indeed-CityFilter,Standard,2,Killeen,TX,1
+"Indeed – Mesquite, TX city filter",https://www.indeed.com/jobs?l=Mesquite%2C+TX,Indeed-CityFilter,Standard,2,Mesquite,TX,1
+"Indeed – Bridgeport, CT city filter",https://www.indeed.com/jobs?l=Bridgeport%2C+CT,Indeed-CityFilter,Standard,2,Bridgeport,CT,1
+"Indeed – Paterson, NJ city filter",https://www.indeed.com/jobs?l=Paterson%2C+NJ,Indeed-CityFilter,Standard,2,Paterson,NJ,1
+"Indeed – Escondido, CA city filter",https://www.indeed.com/jobs?l=Escondido%2C+CA,Indeed-CityFilter,Standard,2,Escondido,CA,1
+"Indeed – Joliet, IL city filter",https://www.indeed.com/jobs?l=Joliet%2C+IL,Indeed-CityFilter,Standard,2,Joliet,IL,1
+"Indeed – Rockford, IL city filter",https://www.indeed.com/jobs?l=Rockford%2C+IL,Indeed-CityFilter,Standard,2,Rockford,IL,1
+"Indeed – Gainesville, FL city filter",https://www.indeed.com/jobs?l=Gainesville%2C+FL,Indeed-CityFilter,Standard,2,Gainesville,FL,1
+"Indeed – Syracuse, NY city filter",https://www.indeed.com/jobs?l=Syracuse%2C+NY,Indeed-CityFilter,Standard,2,Syracuse,NY,1
+"Indeed – Alexandria, VA city filter",https://www.indeed.com/jobs?l=Alexandria%2C+VA,Indeed-CityFilter,Standard,2,Alexandria,VA,1
+"Indeed – Visalia, CA city filter",https://www.indeed.com/jobs?l=Visalia%2C+CA,Indeed-CityFilter,Standard,2,Visalia,CA,1
+"Indeed – Surprise, AZ city filter",https://www.indeed.com/jobs?l=Surprise%2C+AZ,Indeed-CityFilter,Standard,2,Surprise,AZ,1
+"Indeed – Columbia, SC city filter",https://www.indeed.com/jobs?l=Columbia%2C+SC,Indeed-CityFilter,Standard,2,Columbia,SC,1
+Indeed – Dayton city filter,indeed.com,Indeed-CityFilter,Standard,2,Dayton,OH,1
+"Indeed – Elizabeth, NJ city filter",https://www.indeed.com/jobs?l=Elizabeth%2C+NJ,Indeed-CityFilter,Standard,2,Elizabeth,NJ,1
+"Indeed – Midland, TX city filter",https://www.indeed.com/jobs?l=Midland%2C+TX,Indeed-CityFilter,Standard,2,Midland,TX,1
+"Indeed – Hampton, VA city filter",https://www.indeed.com/jobs?l=Hampton%2C+VA,Indeed-CityFilter,Standard,2,Hampton,VA,1
+"Indeed – New Haven, CT city filter",https://www.indeed.com/jobs?l=New+Haven%2C+CT,Indeed-CityFilter,Standard,2,New Haven,CT,1
+"Indeed – Lakewood, NJ city filter",https://www.indeed.com/jobs?l=Lakewood%2C+NJ,Indeed-CityFilter,Standard,2,Lakewood,NJ,1
+"Indeed – Jackson, MS city filter",https://www.indeed.com/jobs?l=Jackson%2C+MS,Indeed-CityFilter,Standard,2,Jackson,MS,1

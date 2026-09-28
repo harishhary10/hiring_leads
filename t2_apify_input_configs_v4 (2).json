@@ -1,0 +1,149 @@
+{
+  "_note": "TeamXT v1.7-aligned Apify actor configs. Niche 2 whitelist widened to full AI/agentic engineering (incl. ML Engineer, MLOps) per doc; Niche 1 Databricks/Snowflake data engineering added as parallel bundle. Two opposite recency windows: Just Funded wants FRESH roles; Stale Requirement wants ROLES OPEN 30+ DAYS (the staleness IS the trigger).",
+  "NICHE2_KEYWORDS": [
+    "AI Engineer",
+    "GenAI Engineer",
+    "Gen AI Engineer",
+    "Generative AI Engineer",
+    "Applied AI Engineer",
+    "LLM Engineer",
+    "AI Application Engineer",
+    "Agentic AI Engineer",
+    "AI Agents Engineer",
+    "AI Platform Engineer",
+    "Machine Learning Engineer",
+    "MLOps Engineer",
+    "AI/ML Engineer",
+    "ML Infrastructure Engineer",
+    "Conversational AI Engineer"
+  ],
+  "NICHE1_KEYWORDS": [
+    "Data Engineer",
+    "Senior Data Engineer",
+    "Analytics Engineer",
+    "Data Platform Engineer",
+    "Lakehouse Engineer",
+    "Databricks Engineer",
+    "Snowflake Engineer",
+    "Databricks",
+    "Snowflake"
+  ],
+  "C1_just_funded_fresh_signal": {
+    "_purpose": "Just Funded campaign. Series A-C round in last 90 days + fresh Niche1/Niche2 hiring. US, UK, Europe. Tiers T2A-T2B only.",
+    "discoverCompanies": [
+      "greenhouse",
+      "lever",
+      "ashby",
+      "workable",
+      "smartrecruiters",
+      "workday",
+      "personio"
+    ],
+    "discoverLimit": 500,
+    "keywords": [
+      "AI Engineer",
+      "GenAI Engineer",
+      "Applied AI Engineer",
+      "LLM Engineer",
+      "Machine Learning Engineer",
+      "MLOps Engineer",
+      "Data Engineer",
+      "Databricks",
+      "Snowflake"
+    ],
+    "keywordsMode": "any",
+    "searchDescriptions": true,
+    "locationFilter": "remote",
+    "postedWithinDays": 30,
+    "excludeStale": true,
+    "extractTechStack": true,
+    "checkFunding": true,
+    "onlyNewJobs": true,
+    "outputMode": "both",
+    "maxItems": 300
+  },
+  "C4_stale_requirement_unfilled_signal": {
+    "_purpose": "Stale Requirement campaign - the HIGHEST CONVERTING cold motion per doc. Trigger is the OPPOSITE of freshness: a role open 30+ days means the client already failed to fill it. Do NOT exclude stale jobs here - that IS the target. Europe/UK T2A-T4, US T2A-T3A.",
+    "discoverCompanies": [
+      "greenhouse",
+      "lever",
+      "ashby",
+      "workable",
+      "smartrecruiters",
+      "workday",
+      "personio"
+    ],
+    "discoverLimit": 500,
+    "keywords": [
+      "AI Engineer",
+      "GenAI Engineer",
+      "Applied AI Engineer",
+      "LLM Engineer",
+      "Machine Learning Engineer",
+      "MLOps Engineer",
+      "AI/ML Engineer",
+      "Data Engineer",
+      "Databricks Engineer",
+      "Snowflake Engineer"
+    ],
+    "keywordsMode": "any",
+    "searchDescriptions": true,
+    "excludeStale": false,
+    "extractTechStack": true,
+    "checkFunding": false,
+    "onlyNewJobs": false,
+    "outputMode": "both",
+    "maxItems": 300,
+    "_post_filter_required": "Manually filter output where days_open >= 30 (actor has no native 'minimum age' input - postedWithinDays only sets a MAX window). Sort ascending by newest_posting_at to surface the stalest first."
+  },
+  "C2_contract_probe": {
+    "_purpose": "Secondary probe for contract/contract-to-hire language - useful for Individual Augmentation sells across all campaigns.",
+    "discoverCompanies": [
+      "greenhouse",
+      "lever",
+      "ashby",
+      "workable",
+      "smartrecruiters",
+      "workday",
+      "personio"
+    ],
+    "discoverLimit": 300,
+    "keywords": [
+      "contract",
+      "contractor",
+      "C2C",
+      "W2 contract",
+      "team augmentation",
+      "staff augmentation"
+    ],
+    "keywordsMode": "any",
+    "searchDescriptions": true,
+    "postedWithinDays": 45,
+    "excludeStale": false,
+    "extractTechStack": true,
+    "checkFunding": true,
+    "onlyNewJobs": true,
+    "outputMode": "both",
+    "maxItems": 200
+  },
+  "C3_stack_evidence_per_account": {
+    "_purpose": "Per-account tech-stack evidence pass, run once at qualification. Confirms Niche1/Niche2 fit and feeds outreach personalization (profile snapshot matching).",
+    "boards": [
+      "REPLACE_WITH_board_url_or_slug"
+    ],
+    "keywords": [
+      "AI Engineer",
+      "LLM",
+      "Databricks",
+      "Snowflake",
+      "MLOps"
+    ],
+    "keywordsMode": "any",
+    "searchDescriptions": true,
+    "excludeStale": false,
+    "extractTechStack": true,
+    "checkFunding": true,
+    "outputMode": "both",
+    "maxItems": 50
+  }
+}
